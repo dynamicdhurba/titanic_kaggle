@@ -3,7 +3,7 @@ This repo contains python and note file of my kaggle's titanic challenge work.
 
 
 Steps:
-Required dataset is provided
+Required dataset is provided : train.csv
 
 Python file can be run directly in Spyder (No need to install any extra packages)
 
